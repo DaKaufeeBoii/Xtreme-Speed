@@ -1,8 +1,8 @@
-# Pokémon: Xtreme-Speed — Cross-Platform Native Source Port (PC & Android)
+# Xtreme-Speed — Cross-Platform Native Source Port (PC & Android)
 ### Pokémon Emerald • Pokémon FireRed • Pokémon Ruby • Pokémon Sapphire
-**True Native Decompilation • 60 FPS Widescreen • Startup Carousel • Floating Dynamic Thumbstick • 100% Offline**
+**True Native Decompilation • 60 FPS Widescreen • Startup Carousel • Floating Dynamic Thumbstick**
 
-**Pokémon: Xtreme-Speed** is a high-performance, 100% native cross-platform port running Pokémon Generation 3 games directly on **PC (Windows)** and **Android (ARM64 / ARMv7)** using the decompiled C engine with SDL2 hardware presentation.
+**Xtreme-Speed** is a high-performance, 100% native cross-platform port running Pokémon Generation 3 games directly on **PC (Windows)** and **Android (ARM64 / ARMv7)** using the decompiled C engine with SDL2 hardware presentation.
 
 > **Zero generic emulators (no mGBA, no VBA). Zero web/network dependencies.**  
 > Compiles directly to native host machine code for instantaneous load times, 60 FPS presentation, and true widescreen camera expansions.
@@ -76,7 +76,7 @@ When sailing from Hoenn (Slateport / Lilycove) to Kanto via the S.S. Tidal, the 
 Double-click any launcher:
 
 - [**Play Xtreme-Speed (Game Select).bat**](file:///d:/Kaufee/projects/personal/pc-port/Play%20Xtreme-Speed%20(Game%20Select).bat) — Interactive 3D Game Selector with box art & double-buffering.
-- [**Play Xtreme-Speed (Native PC).bat**](file:///d:/Kaufee/projects/personal/pc-port/Play%20Xtreme-Speed%20(Native%20PC).bat) — Launches Pokémon: Xtreme-Speed natively.
+- [**Play Xtreme-Speed (Native PC).bat**](file:///d:/Kaufee/projects/personal/pc-port/Play%20Xtreme-Speed%20(Native%20PC).bat) — Launches Xtreme-Speed natively.
 - [**Build & Collect Assets.bat**](file:///d:/Kaufee/projects/personal/pc-port/Build%20&%20Collect%20Assets.bat) — Legal ROM verification and asset extraction wizard.
 - [**pokeemerald.exe**](file:///d:/Kaufee/projects/personal/pc-port/pokeemerald.exe) — The direct native executable.
 
