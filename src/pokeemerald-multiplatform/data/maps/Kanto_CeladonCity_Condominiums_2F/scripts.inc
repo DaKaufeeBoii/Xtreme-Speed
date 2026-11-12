@@ -1,0 +1,15 @@
+Kanto_CeladonCity_Condominiums_2F_MapScripts::
+	.byte 0
+
+Kanto_CeladonCity_Condominiums_2F_EventScript_MeetingRoomSign::
+	msgbox Kanto_CeladonCity_Condominiums_2F_EventScript_MeetingRoomSign_Text, MSGBOX_SIGN
+	end
+
+Kanto_CeladonCity_Condominiums_2F_EventScript_MeetingRoomSign_Text:
+			.string "GAME FREAK Meeting Room$"
+Kanto_CeladonCity_Condominiums_2F_EventScript_PokemonJournalErika::
+	msgbox Kanto_CeladonCity_Condominiums_2F_EventScript_PokemonJournalErika_Text, MSGBOX_NPC
+	end
+
+Kanto_CeladonCity_Condominiums_2F_EventScript_PokemonJournalErika_Text:
+	.string "Hello! Exploring KANTO is full of wonderful discoveries!$"

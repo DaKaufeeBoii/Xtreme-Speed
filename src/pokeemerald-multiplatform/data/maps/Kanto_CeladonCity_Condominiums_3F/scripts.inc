@@ -1,0 +1,51 @@
+Kanto_CeladonCity_Condominiums_3F_MapScripts::
+	.byte 0
+
+Kanto_CeladonCity_Condominiums_3F_EventScript_Computer1::
+	msgbox Kanto_CeladonCity_Condominiums_3F_EventScript_Computer1_Text, MSGBOX_NPC
+	end
+
+Kanto_CeladonCity_Condominiums_3F_EventScript_Computer1_Text:
+			.string "I KNOW EVERYTHING!$"
+Kanto_CeladonCity_Condominiums_3F_EventScript_Computer2::
+	msgbox Kanto_CeladonCity_Condominiums_3F_EventScript_Computer2_Text, MSGBOX_NPC
+	end
+
+Kanto_CeladonCity_Condominiums_3F_EventScript_Computer2_Text:
+			.string "I KNOW EVERYTHING!$"
+Kanto_CeladonCity_Condominiums_3F_EventScript_Computer3::
+	msgbox Kanto_CeladonCity_Condominiums_3F_EventScript_Computer3_Text, MSGBOX_NPC
+	end
+
+Kanto_CeladonCity_Condominiums_3F_EventScript_Computer3_Text:
+			.string "I KNOW EVERYTHING!$"
+Kanto_CeladonCity_Condominiums_3F_EventScript_Designer::
+	msgbox Kanto_CeladonCity_Condominiums_3F_EventScript_Designer_Text, MSGBOX_NPC
+	end
+
+Kanto_CeladonCity_Condominiums_3F_EventScript_Designer_Text:
+		.string "GAME FREAK Development Room$"
+Kanto_CeladonCity_Condominiums_3F_EventScript_DevelopmentRoomSign::
+	msgbox Kanto_CeladonCity_Condominiums_3F_EventScript_DevelopmentRoomSign_Text, MSGBOX_SIGN
+	end
+
+Kanto_CeladonCity_Condominiums_3F_EventScript_DevelopmentRoomSign_Text:
+			.string "GAME FREAK Development Room$"
+Kanto_CeladonCity_Condominiums_3F_EventScript_GraphicArtist::
+	msgbox Kanto_CeladonCity_Condominiums_3F_EventScript_GraphicArtist_Text, MSGBOX_NPC
+	end
+
+Kanto_CeladonCity_Condominiums_3F_EventScript_GraphicArtist_Text:
+		.string "GAME FREAK Development Room$"
+Kanto_CeladonCity_Condominiums_3F_EventScript_Programmer::
+	msgbox Kanto_CeladonCity_Condominiums_3F_EventScript_Programmer_Text, MSGBOX_NPC
+	end
+
+Kanto_CeladonCity_Condominiums_3F_EventScript_Programmer_Text:
+		.string "GAME FREAK Development Room$"
+Kanto_CeladonCity_Condominiums_3F_EventScript_Writer::
+	msgbox Kanto_CeladonCity_Condominiums_3F_EventScript_Writer_Text, MSGBOX_NPC
+	end
+
+Kanto_CeladonCity_Condominiums_3F_EventScript_Writer_Text:
+		.string "GAME FREAK Development Room$"

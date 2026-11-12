@@ -1,0 +1,21 @@
+Kanto_CinnabarIsland_PokemonLab_Lounge_MapScripts::
+	.byte 0
+
+Kanto_CinnabarIsland_PokemonLab_Lounge_EventScript_Clifton::
+	msgbox Kanto_CinnabarIsland_PokemonLab_Lounge_EventScript_Clifton_Text, MSGBOX_NPC
+	end
+
+Kanto_CinnabarIsland_PokemonLab_Lounge_EventScript_Clifton_Text:
+		.string "Thanks!$"
+Kanto_CinnabarIsland_PokemonLab_Lounge_EventScript_Norma::
+	msgbox Kanto_CinnabarIsland_PokemonLab_Lounge_EventScript_Norma_Text, MSGBOX_NPC
+	end
+
+Kanto_CinnabarIsland_PokemonLab_Lounge_EventScript_Norma_Text:
+	.string "Hello! Exploring KANTO is full of wonderful discoveries!$"
+Kanto_CinnabarIsland_PokemonLab_Lounge_EventScript_Scientist::
+	msgbox Kanto_CinnabarIsland_PokemonLab_Lounge_EventScript_Scientist_Text, MSGBOX_NPC
+	end
+
+Kanto_CinnabarIsland_PokemonLab_Lounge_EventScript_Scientist_Text:
+		.string "Thanks!$"

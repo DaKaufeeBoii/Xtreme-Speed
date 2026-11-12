@@ -1,0 +1,39 @@
+# ROMs and BIOS
+roms/
+*.gba
+*.gb
+*.gbc
+gba_bios/
+*.zip
+
+# Save files
+*.sav
+saves/
+
+# Executables & Binaries
+pokeemerald.exe
+*.exe
+*.o
+*.a
+build/
+
+# Logs & Dumps
+*.log
+crash_dump.txt
+debug_trace.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS & Editor
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+.gradle/
+build/
+local.properties
+
